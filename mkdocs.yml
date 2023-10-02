@@ -1,4 +1,4 @@
-site_name: MkDocs YouTube Tutorial
+site_name: MAKS HR Management System
 theme:
   name: material
   features:
@@ -33,6 +33,17 @@ extra:
       link: https://twitter.com/TheJamesWillett
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/willettjames/
+nav:
+  - Home:
+    - index.md 
+  - Get Started:
+    - Get Started.md 
+  - Backend:
+    - Backend.md 
+  - Frontend:
+    - Frontend.md 
+  - Cloud:
+    - Cloud.md 
 
 markdown_extensions:
   - pymdownx.highlight:

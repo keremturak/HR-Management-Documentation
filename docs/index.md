@@ -1,69 +1,20 @@
-# Homepage
+# MAKS HR Management System
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a human resources application that includes four distinct roles: admin, company manager, employee, and guest. Each role is equipped with its own dashboard, profile, and pages tailored to their specific responsibilities.
 
-##Code Annotation Example
+When a company manager registers, their registration is subject to approval by the admin. Once approved, the company manager gains access to the system and can subsequently add employees to the system.
 
-###Codeblocks
+The Employee profile page encompasses personal information, salary details, and shift schedules. The employee dashboard also provides information about public holidays and details about the company they are employed by.
 
-Some `code` blocks
+Employees have the option to submit comments regarding their company, but these comments will only be published after receiving approval from the admin.
 
-### Plain codeblock
+For company managers, there is a dedicated page with comprehensive information about their company's financial status, including income, expenses, and profit and loss data.
 
-A plain codeblock:
+Guests who register with the application can access information and comments pertaining to all companies that are registered within the application.
 
-```
-Some Code here
-def myfuntion()
-//some comment
-```
 
-#### Code for a specific language
 
-Some more code with the `py` at the start:
+![Sample Image](https://odsdanismanlik.com/wp-content/uploads/2022/08/ODS_AK_22_1131_makale_agustos_gorselleri_toplu_ik_1920x550_010822.png)
 
-```	py
-import tensorflow as tf
-def whatever()
-```
-#### With a title
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
 
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
-
-## haay
