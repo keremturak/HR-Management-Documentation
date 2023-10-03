@@ -36,10 +36,19 @@ extra:
 nav:
   - Home:
     - index.md 
-  - Get Started:
-    - Get Started.md 
-  - Backend:
-    - Backend.md 
+  - Get Started: 'Get Started.md' 
+  - Setup: 'installation.md'
+  - Micro Services: 
+    - MicroServices.md
+    - Config Server: 'config-server.md'
+    - Config Server Git: 'config-server-git.md'
+    - Auth Service: 'auth-microservice.md'
+    - User Service: 'user-microservice.md'
+    - Company Service: 'company-microservice.md'
+    - Comment Service: 'comment-microservice.md'
+    - Mail Service: 'mail-service.md'
+    - Api Gateway Server: 'api-gateway-service.md'
+  - Project Offerings: 'Project Offerings.md'
   - Frontend:
     - Frontend.md 
   - Cloud:

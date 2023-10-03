@@ -15,7 +15,26 @@ Depending on the application you use, you may not be able to preview the formatt
 
 The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
 
-## Why Use Markdown?
+
+## Tech Stack 
+
+<div style="display: flex; align-items: center;">
+  <strong>Client:</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="HTML5" width="25" height="20">
+  React,
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="HTML5" width="25" height="20">JavaScript,
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="20">Html
+</div>
+
+**Server:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=avif&w=256" alt="HTML5" width="25" height="20"> Java,<img src="https://cdn.iconscout.com/icon/free/png-512/free-spring-16-283031.png?f=avif&w=256" alt="HTML5" width="25" height="20">SpringBoot, <img src="https://cdn.iconscout.com/icon/free/png-512/free-gradle-2-1174969.png?f=avif&w=256" alt="HTML5" width="25" height="20">Gradle
+
+
+**Cloud:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-google-cloud-2038785-1721675.png?f=avif&w=256" alt="HTML5" width="25" height="20">Google Cloud,<img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-283489.png?f=avif&w=256" alt="HTML5" width="25" height="20">Kubernetes,<img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-226091.png?f=avif&w=256" alt="HTML5" width="25" height="20">Docker
+
+**DataBases:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-8-1175119.png?f=avif&w=256" alt="HTML5" width="25" height="20">Postgre,<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3521676-2945120.png?f=avif&w=256" alt="HTML5" width="25" height="20">MongoDB
+
+
+## Why Use MAKS HR?
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
 
 Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
@@ -57,7 +76,7 @@ Use the Markdown application to convert the Markdown file to an HTML document.
 View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
 From your perspective, the process will vary somewhat depending on the application you use. For example, Dillinger essentially combines steps 1-3 into a single, seamless interface — all you have to do is type in the left pane and the rendered output magically appears in the right pane. But if you use other tools, like a text editor with a static website generator, you’ll find that the process is much more visible.
 
-## What’s Markdown Good For?
+## What’s MARKS HR Good For?
 Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.
 
 It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere. Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.
@@ -116,7 +135,7 @@ MkDocs is a fast and simple static site generator that’s geared towards buildi
 Docusaurus is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
 VuePress is a static site generator powered by Vue and optimized for writing technical documentation.
 Jekyll was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the Jekyll documentation theme.
-## Flavors of Markdown
+## Flavors of MARKS HR
 One of the most confusing aspects of using Markdown is that practically every Markdown application implements a slightly different version of Markdown. These variants of Markdown are commonly referred to as flavors. It’s your job to master whatever flavor of Markdown your application has implemented.
 
 To wrap your head around the concept of Markdown flavors, it might help to think of them as language dialects. People in New York City speak English just like the people in London, but there are substantial differences between the dialects used in both cities. The same is true for people using different Markdown applications. Using Dillinger to write with Markdown is a vastly different experience than using Ulysses.
