@@ -1,20 +1,129 @@
 # Get Started
 
 ## What is MAKS HR?
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+Maks HR is a Human Resources application that provides incredible convenience to its users. Company managers can monitor various parameters such as employees' leave days, salaries, happiness statuses, and the company's financial situation under one roof. Employees using the platform can provide transparent feedback about their companies' approaches by making comments. 
 
-Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+This prevents many surprises in today's working life and strengthens the ecosystem by ensuring transparency between employees and companies. By using this platform, you can contribute to advancing your industry for the greater good of humanity and engage in mutual assistance. Additionally, you can manage many situations through a single platform. So, don't wait! Start building and let's achieve much greater things together.
 
-For example, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Visual Studio Code text editor.
 
-Markdown file in the Visual Studio Code text editor
 
-You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
-Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. According to Gruber, Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.
+## Why Use MAKS HR?
 
-The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+MAKS HR offers a range of benefits and features that make it a valuable tool for managing human resources effectively. Some reasons why you might choose to use MAKS HR include:
 
+- **Comprehensive HR Management:** MAKS HR provides a centralized platform for managing various aspects of human resources, including employee records, payroll, benefits administration, performance management, and more.
+
+- **Streamlined Processes:** The platform automates many HR processes, reducing manual tasks and saving time. This includes tasks like leave management, onboarding, and performance evaluations.
+
+- **Employee Self-Service:** MAKS HR offers self-service portals for employees, allowing them to access and update their personal information, view pay stubs, request time off, and more. This empowers employees and reduces administrative overhead.
+
+- **Data Security and Compliance:** MAKS HR prioritizes data security and compliance with industry standards and regulations. This helps protect sensitive employee information and ensures legal compliance.
+
+- **Reporting and Analytics:** The platform provides robust reporting and analytics tools, allowing HR teams to track key metrics, generate reports, and gain insights into workforce trends.
+
+- **Customization and Scalability:** MAKS HR is often customizable to fit the specific needs and workflows of an organization. It can also scale with the growth of the company.
+
+- **Integration Capabilities:** It can integrate with other software systems commonly used in organizations, such as accounting software, time tracking tools, and more.
+
+- **Enhanced Communication:** The platform may include features for internal communication, helping to facilitate collaboration and transparency among team members.
+
+Overall, MAKS HR aims to streamline HR operations, improve employee satisfaction, and provide the necessary tools for effective workforce management.
+
+
+## Kicking the Tires
+
+When it comes to evaluating the effectiveness of a new tool or system, the saying "kicking the tires" is quite fitting. It means taking a close look, testing things out, and getting a feel for how it works.
+
+In the context of MAKS HR, here are a few ways you can start "kicking the tires":
+
+- **Explore the Dashboard:** Begin by navigating through the dashboard. Familiarize yourself with the layout and the different sections available.
+
+- **Add Test Employees:** Use the platform to add a few test employees. This will give you a sense of how employee data is managed.
+
+- **Simulate HR Processes:** Test out various HR processes like onboarding, leave requests, and performance evaluations. See how smoothly they flow within the system.
+
+- **Generate Reports:** Experiment with the reporting features to see how you can extract valuable insights from the data.
+
+Remember, "kicking the tires" is all about getting hands-on experience and making sure the tool aligns with your needs and expectations. Enjoy exploring MAKS HR!
+
+
+## How Does it Work?
+
+MAKS HR operates through a structured process designed to streamline HR management. Here's a breakdown of how it functions:
+
+1. **Company Registration and Approval:**
+   - Company managers start by registering their company on the platform.
+   - The registration request is then reviewed and approved by the admin.
+   - Additionally, a confirmation email is sent to the registered company manager. Clicking the link in the email activates their account.
+
+2. **Adding Employees:**
+   - After the company manager's account and company are approved, they can start adding employees to the system.
+   - Each added employee receives an email containing their login information and account activation details.
+
+3. **Company Manager Dashboard:**
+   - Once set up, company managers gain access to a comprehensive dashboard.
+   - They can monitor parameters such as total employee count, employees added in the last 24 hours, and the overall economic status of the company.
+
+4. **Employee Interaction:**
+   - Employees can log in to the system and edit their profile information, including profile pictures and personal details.
+   - They also have the ability to provide feedback on their respective companies.
+
+5. **Admin Approval for Feedback:**
+   - Comments provided by employees are subject to admin approval.
+   - Once approved, guests and other specified users can view these comments.
+
+6. **Monitoring Company Parameters:**
+   - Employees also have the capability to monitor various parameters related to their company, such as salary status, leave days, and more.
+
+This structured approach ensures that both company managers and employees can efficiently manage their HR processes and stay updated on crucial company metrics.
+
+## What’s MAKS HR Good For?
+
+MAKS HR is a versatile Human Resources Management platform that excels in various areas of HR administration. Here's a closer look at its key strengths:
+
+**1. Centralized HR Management:**
+
+MAKS HR offers a centralized repository for all HR-related activities. Whether it's maintaining employee records, managing payroll, overseeing benefits, or conducting performance evaluations, everything can be efficiently handled from one central hub.
+
+**2. Automated HR Processes:**
+
+Say goodbye to time-consuming manual tasks. MAKS HR automates numerous HR processes, including onboarding, leave management, and performance assessments. This automation not only saves valuable time but also reduces the likelihood of errors.
+
+**3. Employee Empowerment:**
+
+MAKS HR empowers employees by providing self-service portals. Through these portals, employees can access and update their personal information, request time off, view pay stubs, and more. This self-service approach enhances their overall experience and reduces the administrative burden on HR teams.
+
+**4. Data Security and Compliance:**
+
+Data security is paramount in HR, and MAKS HR takes this seriously. The platform is designed to protect sensitive employee information and ensure compliance with industry regulations and standards. You can trust that your data is safe.
+
+**5. Robust Reporting and Analytics:**
+
+HR teams benefit from MAKS HR's robust reporting and analytics tools. These features enable HR professionals to track key metrics, generate comprehensive reports, and gain valuable insights into workforce trends. Informed decision-making becomes more accessible.
+
+**6. Customization and Scalability:**
+
+No two organizations are exactly alike. MAKS HR acknowledges this by offering customization options to align with your specific HR workflows and processes. As your organization grows, the platform scales seamlessly to accommodate your evolving needs.
+
+**7. Integration Capabilities:**
+
+MAKS HR is not an island; it's designed to integrate seamlessly with other software systems commonly used within organizations. Whether it's accounting software, time tracking tools, or communication platforms, MAKS HR plays well with others.
+
+**8. Enhanced Communication:**
+
+Effective communication is vital in any organization. MAKS HR fosters internal communication by offering features that facilitate collaboration and transparency among team members. This helps create a more connected and informed workforce.
+
+In conclusion, MAKS HR is your all-in-one solution for HR management. Its capabilities span from simplifying day-to-day administrative tasks to providing deep insights into your workforce. Whether you're a small startup or a large corporation, MAKS HR can adapt to your needs and grow with your organization.
+
+
+
+## Flavors of MARKS HR
+MAKS HR comes in different flavors to cater to diverse organizational needs. Each flavor is tailored to specific requirements, offering flexibility and customization. 
+
+MAKS HR Lite is a streamlined version designed for small businesses and startups, focusing on essential HR functions like employee records and basic payroll. On the other hand, MAKS HR Pro is ideal for mid-sized companies seeking comprehensive HR management. It offers a wider range of features, including performance management, benefits administration, and advanced reporting, all of which can be customized to fit specific organizational workflows. 
+
+Lastly, MAKS HR Enterprise is tailored for large enterprises with complex HR needs. It includes advanced modules for talent acquisition, workforce planning, and compliance management, and is scalable to accommodate a growing workforce.
 
 ## Tech Stack 
 
@@ -26,131 +135,13 @@ The overriding design goal for Markdown’s formatting syntax is to make it as r
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="20">Html
 </div>
 
-**Server:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=avif&w=256" alt="HTML5" width="25" height="20"> Java,<img src="https://cdn.iconscout.com/icon/free/png-512/free-spring-16-283031.png?f=avif&w=256" alt="HTML5" width="25" height="20">SpringBoot, <img src="https://cdn.iconscout.com/icon/free/png-512/free-gradle-2-1174969.png?f=avif&w=256" alt="HTML5" width="25" height="20">Gradle
+**Server:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-59-1174952.png?f=avif&w=256" alt="HTML5" width="25" height="20"> Java,<img src="https://cdn.iconscout.com/icon/free/png-512/free-rabbitmq-282296.png?f=avif&w=256" alt="HTML5" width="25" height="20"> RabbitMq<img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" alt="HTML5" width="25" height="20"> Swagger<img src="https://cdn.iconscout.com/icon/free/png-512/free-spring-16-283031.png?f=avif&w=256" alt="HTML5" width="25" height="20">SpringBoot, <img src="https://cdn.iconscout.com/icon/free/png-512/free-gradle-2-1174969.png?f=avif&w=256" alt="HTML5" width="25" height="20">Gradle
 
 
 **Cloud:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-google-cloud-2038785-1721675.png?f=avif&w=256" alt="HTML5" width="25" height="20">Google Cloud,<img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-283489.png?f=avif&w=256" alt="HTML5" width="25" height="20">Kubernetes,<img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-226091.png?f=avif&w=256" alt="HTML5" width="25" height="20">Docker
 
 **DataBases:**<img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-8-1175119.png?f=avif&w=256" alt="HTML5" width="25" height="20">Postgre,<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3521676-2945120.png?f=avif&w=256" alt="HTML5" width="25" height="20">MongoDB
 
-
-## Why Use MAKS HR?
-You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
-
-Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
-
-Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.
-
-Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
-
-Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.
-
-Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
-
-## Kicking the Tires
-The best way to get started with Markdown is to use it. That’s easier than ever before thanks to a variety of free tools.
-
-You don’t even need to download anything. There are several online Markdown editors that you can use to try writing in Markdown. Dillinger is one of the best online Markdown editors. Just open the site and start typing in the left pane. A preview of the rendered document appears in the right pane.
-
-Dillinger Markdown editor
-
-You’ll probably want to keep the Dillinger website open as you read through this guide. That way you can try the syntax as you learn about it. After you’ve become familiar with Markdown, you may want to use a Markdown application that can be installed on your desktop computer or mobile device.
-
-## How Does it Work?
-Dillinger makes writing in Markdown easy because it hides the stuff happening behind the scenes, but it’s worth exploring how the process works in general.
-
-When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension. But then what? How is your Markdown-formatted file converted into HTML or a print-ready document?
-
-The short answer is that you need a Markdown application capable of processing the Markdown file. There are lots of applications available — everything from simple scripts to desktop applications that look like Microsoft Word. Despite their visual differences, all of the applications do the same thing. Like Dillinger, they all convert Markdown-formatted text to HTML so it can be displayed in web browsers.
-
-Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format. At that point, your document can be viewed in a web browser or combined with a style sheet and printed. You can see a visual representation of this process below.
-
- Note: The Markdown application and processor are two separate components. For the sake of brevity, I've combined them into one element ("Markdown app") in the figure below.
-The Markdown Process
-
-To summarize, this is a four-part process:
-
-Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
-Open the Markdown file in a Markdown application.
-Use the Markdown application to convert the Markdown file to an HTML document.
-View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
-From your perspective, the process will vary somewhat depending on the application you use. For example, Dillinger essentially combines steps 1-3 into a single, seamless interface — all you have to do is type in the left pane and the rendered output magically appears in the right pane. But if you use other tools, like a text editor with a static website generator, you’ll find that the process is much more visible.
-
-## What’s MARKS HR Good For?
-Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.
-
-It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere. Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.
-
-Here are some examples of what you can do with Markdown.
-
-Websites
-Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.
-
-If you’re looking for the simplest possible way to create a website with Markdown files, check out blot.im. After you sign up for Blot, it creates a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they’re on your website. It couldn’t be easier.
-
-If you’re familiar with HTML, CSS, and version control, check out Jekyll, a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that GitHub Pages provides free hosting for Jekyll-generated websites. If Jekyll isn’t your cup of tea, just pick one of the many other static site generators available.
-
- Note: I used Jekyll to create the Markdown Guide. You can view the source code on GitHub.
-If you’d like to use a content management system (CMS) to power your website, take a look at Ghost. It’s a free and open-source blogging platform with a nice Markdown editor. If you’re a WordPress user, you’ll be happy to know there’s Markdown support for websites hosted on WordPress.com. Self-hosted WordPress sites can use the Jetpack plugin.
-
-Documents
-Markdown doesn’t have all the bells and whistles of word processors like Microsoft Word, but it’s good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is key, because once you have a PDF document, you can do anything with it — print it, email it, or upload it to a website.
-
-Here are some Markdown document authoring applications I recommend:
-
-Mac: MacDown, iA Writer, or Marked 2
-iOS / Android: iA Writer
-Windows: ghostwriter or Markdown Monster
-Linux: ReText or ghostwriter
-Web: Dillinger or StackEdit
- Tip: iA Writer provides templates for previewing, printing, and exporting Markdown-formatted documents. For example, the "Academic – MLA Style" template indents paragraphs and adds double sentence spacing.
-Notes
-In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, Evernote and OneNote, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:
-
-Obsidian is a popular Markdown note-taking application loaded with features.
-Simplenote is a free, barebones note-taking application available for every platform.
-Notable is a note-taking application that runs on a variety of platforms.
-Bear is an Evernote-like application available for Mac and iOS devices. It doesn’t exclusively use Markdown by default, but you can enable Markdown compatibility mode.
-Joplin is a note taking application that respects your privacy. It’s available for every platform.
-Boostnote bills itself as an “open source note-taking app designed for programmers.”
-If you can’t part with Evernote, check out Marxico, a subscription-based Markdown editor for Evernote, or use Markdown Here with the Evernote website.
-
-Books
-Looking to self-publish a novel? Try Leanpub, a service that takes your Markdown-formatted files and turns them into an electronic book. Leanpub outputs your book in PDF, EPUB, and MOBI file format. If you’d like to create paperback copies of your book, you can upload the PDF file to another service such as Kindle Direct Publishing. To learn more about writing and self-publishing a book using Markdown, read this blog post.
-
-Presentations
-Believe it or not, you can generate presentations from Markdown-formatted files. Creating presentations in Markdown takes a little getting used to, but once you get the hang of it, it’s a lot faster and easier than using an application like PowerPoint or Keynote. Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as are Cleaver (GitHub project) and Marp (GitHub project). If you use a Mac and would prefer to use an application, check out Deckset or Hyperdeck.
-
-Email
-If you send a lot of email and you’re tired of the formatting controls available on most email provider websites, you’ll be happy to learn there’s an easy way to write email messages using Markdown. Markdown Here is a free and open-source browser extension that converts Markdown-formatted text into HTML that’s ready to send.
-
-Collaboration
-Collaboration and team messaging applications are a popular way of communicating with coworkers and friends at work and home. These applications don’t utilize all of Markdown’s features, but the features they do provide are fairly useful. For example, the ability to bold and italicize text without using the WYSIWYG interface is pretty handy. Slack, Discord, Wiki.js, and Mattermost are all good collaboration applications.
-
-Documentation
-Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation — check out their blog post about how they migrated their Markdown-formatted documentation to Jekyll. If you write documentation for a product or service, take a look at these handy tools:
-
-Read the Docs can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a service for commercial entities.
-MkDocs is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several built in themes, including a port of the Read the Docs documentation theme for use with MkDocs. One of the newest themes is MkDocs Material.
-Docusaurus is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
-VuePress is a static site generator powered by Vue and optimized for writing technical documentation.
-Jekyll was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the Jekyll documentation theme.
-## Flavors of MARKS HR
-One of the most confusing aspects of using Markdown is that practically every Markdown application implements a slightly different version of Markdown. These variants of Markdown are commonly referred to as flavors. It’s your job to master whatever flavor of Markdown your application has implemented.
-
-To wrap your head around the concept of Markdown flavors, it might help to think of them as language dialects. People in New York City speak English just like the people in London, but there are substantial differences between the dialects used in both cities. The same is true for people using different Markdown applications. Using Dillinger to write with Markdown is a vastly different experience than using Ulysses.
-
-Practically speaking, this means you never know exactly what a company means when they say they support “Markdown.” Are they talking about only the basic syntax elements, or all of the basic and extended syntax elements combined, or some arbitrary combination of syntax elements? You won’t know until you read the documentation or start using the application.
-
-If you’re just starting out, the best advice I can give you is to pick a Markdown application with good Markdown support. That’ll go a long way towards maintaining the portability of your Markdown files. You might want to store and use your Markdown files in other applications, and to do that you need to start with an application that provides good support. You can use the tool directory to find an application that fits the bill.
-
-## Additional Resources
-There are lots of resources you can use to learn Markdown. Here are some other introductory resources:
-
-John Gruber’s Markdown documentation. The original guide written by the creator of Markdown.
-Markdown Tutorial. An open source website that allows you to try Markdown in your web browser.
-Awesome Markdown. A list of Markdown tools and learning resources.
-Typesetting Markdown. A multi-part series that describes an ecosystem for typesetting Markdown documents using pandoc and ConTeXt.
 
 
 

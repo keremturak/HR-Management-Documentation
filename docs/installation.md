@@ -5,17 +5,20 @@ Before you start using the project, make sure to follow the steps below. Please 
 2. Configure the `YAML` files.
 
 3. Add dependencies.
+4. Requirements
 
-4. Start the Config Server first.
+5. Start the Config Server first.
 
-5. Start the other services of the project.
+6. Start the other services of the project.
 
-6. Conduct tests using Swagger.
+7. Conduct tests using Swagger.
 
-7. Begin to enjoy!
+8. Begin to enjoy!
 
 
 ## **Cloning the Repository:**
+
+![Sample Image](\img\GitHub_logo_2013.svg.png)
 
 1. Open the Terminal or Command Prompt.
 
@@ -38,9 +41,12 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 ## Configure the YAML files.
 
+
+
 👉[Go To Yaml File](http://127.0.0.1:8000/config-server/)
 
 ## Add Dependencies
+![Sample Image](\img\Gradle_logo.png)
 
 |      | Tech     | Url |
 |----| -------- | ------- |
@@ -66,22 +72,86 @@ Before you start using the project, make sure to follow the steps below. Please 
               
 
 
-
-A plain codeblock:
-
-```
-Some Code here
-def myfuntion()
-//some comment
-```
 ## Requirements
+![Sample Image](/img/requirements-1.png)
 
-Some more code with the `py` at the start:
+- Java 8 SE or newer versions are required.
+- The application serves as a server for API file operations, saving multiple files to the image folder under resources.
+- The application utilizes both PostgreSQL and MongoDB as databases.
+- Docker must be installed to initialize both MongoDB and RabbitMQ.
+- Exercise caution as numerous validation checks are in place when performing operations. Adhere to these validations for smooth operation.
 
-```	py
-import tensorflow as tf
-def whatever()
+---
+
+## MongoDB Dockerize
+
+![Sample Image](img\MongoDB_Fores-Green.svg.png)
+
+ **Install Docker**
+
+Ensure you have Docker installed on your system. You can download and install Docker from the [official Docker website](https://www.docker.com/get-started).
+
+
+
+ **Pull MongoDB Docker Image:**
+
+Open a terminal or command prompt and execute the following command to pull the official MongoDB Docker image:
+
+```bash
+docker pull mongo
 ```
+
+ **Run MongoDB as a Docker Container:**
+
+After pulling the image, you can run a MongoDB container using the following command:
+
+    ```bash
+    docker run -d --name mongodb-container -p 27017:27017 mongo
+    ```
+
+- `mongodb-container`: This is the name you assign to your Docker container. You can choose a different name if you prefer.
+- `27017:27017`: This maps the port 27017 of the Docker container to the same port on your localhost.
+
+## RabbitMQ Dockerize
+
+![Sample Image](\img\RabbitMQ_logo.svg.png)
+
+1. **Pull RabbitMQ Docker Image:**
+
+    This command downloads the RabbitMQ Docker image.
+
+2. **Running the RabbitMQ Container:**
+
+    To start the RabbitMQ container, use the following command:
+
+    ```bash
+    docker run -d --name rabbitmq-container -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+    ```
+
+    - `rabbitmq-container`: This is the name you assign to your Docker container. You can choose a different name if you prefer.
+    - `5672:5672` and `15672:15672`: These map the ports used by RabbitMQ.
+
+3. **Accessing the RabbitMQ Management Interface:**
+
+    Open your browser and go to [http://localhost:15672](http://localhost:15672) to access the RabbitMQ management interface. The default username and password are "guest/guest".
+
+4. **Stopping and Removing the RabbitMQ Container:**
+
+    To stop and remove the RabbitMQ container, you can use the following commands:
+
+    - Stop:
+
+        ```bash
+        docker stop rabbitmq-container
+        ```
+
+    - Remove:
+
+        ```bash
+        docker rm rabbitmq-container
+        ```
+
+
 #### Environment Variables
 `${MONGO_USERNAME_COMPANY}`
 `${MONGO_PASS_COMPANY}` 
@@ -105,6 +175,7 @@ You can start the `ConfigServerApplication` inside the config server, and this w
 <div style="text-align:center">
     <img src="/img/starting-config-server-1.png" alt="Açıklama buraya" width="1000" height="100">
 </div>
+<br>
 <div style="text-align:center">
     <img src="/img/starting-config-server-2.png" alt="Açıklama buraya" width="1000" height="1000">
 </div>
@@ -120,6 +191,8 @@ You can start the `ConfigServerApplication` inside the config server, and this w
 You should run the auth, user, comment, company, and mail services as applied in the example above.
 
 ## Conduct tests using Swagger.
+
+![Sample Image](\img\Swagger-logo.png)
 
 👉[Go To End Points](http://127.0.0.1:8000/Project%20Offerings/#end-points)
 
