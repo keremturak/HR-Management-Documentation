@@ -127,7 +127,7 @@ You should run the auth, user, comment, company, and mail services as applied in
 
 
 <div style="text-align:center">
-    <img src="/img/employee_dashboard.png" alt="Açıklama buraya" width="1000" height="100">
+    <img src="https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/employee_dashboard.png?raw=true)https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/employee_dashboard.png?raw=true" alt="Açıklama buraya" width="1000" height="100">
 </div>
 
 
