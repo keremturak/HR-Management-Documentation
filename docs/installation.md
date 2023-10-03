@@ -38,7 +38,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 ## Configure the YAML files.
 
-👉[Go To Yaml File](http://127.0.0.1:8000/config-server/](https://keremturak.github.io/HR-Management-Documentation/config-server/#config-microservice)
+👉[Go To Yaml File](https://keremturak.github.io/HR-Management-Documentation/config-server/#config-microservice)
 
 ## Add Dependencies
 
