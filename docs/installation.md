@@ -41,9 +41,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 ## Configure the YAML files.
 
-
-
-👉[Go To Yaml File](http://127.0.0.1:8000/config-server/)
+👉[Go To Yaml File](https://keremturak.github.io/HR-Management-Documentation/config-server/#config-microservice)
 
 ## Add Dependencies
 ![Sample Image](\img\Gradle_logo.png)
@@ -173,11 +171,11 @@ You can start the `ConfigServerApplication` inside the config server, and this w
 
 
 <div style="text-align:center">
-    <img src="/img/starting-config-server-1.png" alt="Açıklama buraya" width="1000" height="100">
+    <img src="https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/starting-config-server-1.png?raw=true" alt="Açıklama buraya" width="1000" height="100">
 </div>
 <br>
 <div style="text-align:center">
-    <img src="/img/starting-config-server-2.png" alt="Açıklama buraya" width="1000" height="1000">
+    <img src="https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/starting-config-server-2.png?raw=true" alt="Açıklama buraya" width="1000" height="1000">
 </div>
 
 
@@ -192,15 +190,13 @@ You should run the auth, user, comment, company, and mail services as applied in
 
 ## Conduct tests using Swagger.
 
-![Sample Image](\img\Swagger-logo.png)
-
 👉[Go To End Points](http://127.0.0.1:8000/Project%20Offerings/#end-points)
 
 ## Begin to enjoy!
 
 
 <div style="text-align:center">
-    <img src="/img/employee_dashboard.png" alt="Açıklama buraya" width="1000" height="100">
+    <img src="https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/employee_dashboard.png?raw=true)https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/employee_dashboard.png?raw=true" alt="Açıklama buraya" width="1000" height="100">
 </div>
 
 

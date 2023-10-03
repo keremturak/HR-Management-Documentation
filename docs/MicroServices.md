@@ -17,7 +17,7 @@
 **For these reasons, we prefer the microservices architecture because it provides faster development processes, better scalability, and more effective maintenance capabilities.**
 
 <div style="text-align: center;">
-    <img src="/img/1603893160455.avif" alt="Açıklama buraya">
+    <img src="https://raw.githubusercontent.com/keremturak/HR-Management-Documentation/main/docs/img/1603893160455.avif" alt="Açıklama buraya">
 </div>
 
 
