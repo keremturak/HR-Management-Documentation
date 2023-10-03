@@ -18,7 +18,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 ## **Cloning the Repository:**
 
-![Sample Image](\img\GitHub_logo_2013.svg.png)
+![Sample Image](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/GitHub_logo_2013.svg.png?raw=true)
 
 1. Open the Terminal or Command Prompt.
 
