@@ -44,7 +44,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 👉[Go To Yaml File](https://keremturak.github.io/HR-Management-Documentation/config-server/#config-microservice)
 
 ## Add Dependencies
-![Sample Image](\img\Gradle_logo.png)
+![Sample Image]([\img\Gradle_logo.png])
 
 |      | Tech     | Url |
 |----| -------- | ------- |
