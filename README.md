@@ -1,3 +1,3 @@
 # MAKS-HR-Management
 
-https://keremturak.github.io/MAKS-HR-Management/
+https://keremturak.github.io/HR-Management-Documentation
