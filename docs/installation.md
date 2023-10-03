@@ -44,7 +44,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 👉[Go To Yaml File](https://keremturak.github.io/HR-Management-Documentation/config-server/#config-microservice)
 
 ## Add Dependencies
-![Sample Image]([\img\Gradle_logo.png])
+![Dependencies](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/Gradle_logo.png?raw=true)
 
 |      | Tech     | Url |
 |----| -------- | ------- |
@@ -71,7 +71,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 
 ## Requirements
-![Sample Image](/img/requirements-1.png)
+![Sample Image](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/requirements-1.png?raw=true)
 
 - Java 8 SE or newer versions are required.
 - The application serves as a server for API file operations, saving multiple files to the image folder under resources.
@@ -83,7 +83,7 @@ Before you start using the project, make sure to follow the steps below. Please 
 
 ## MongoDB Dockerize
 
-![Sample Image](img\MongoDB_Fores-Green.svg.png)
+![Sample Image](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/MongoDB_Fores-Green.svg.png?raw=true)
 
  **Install Docker**
 
@@ -112,7 +112,7 @@ After pulling the image, you can run a MongoDB container using the following com
 
 ## RabbitMQ Dockerize
 
-![Sample Image](\img\RabbitMQ_logo.svg.png)
+![Sample Image](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/RabbitMQ_logo.svg.png?raw=true)
 
 1. **Pull RabbitMQ Docker Image:**
 
